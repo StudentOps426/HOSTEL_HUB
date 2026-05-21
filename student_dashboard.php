@@ -271,9 +271,6 @@ body{
 
     <a href="reservation.php">📅 My Reservations</a>
 
-    <a href="#">❤️ Saved Hostels</a>
-
-    <a href="#">⚙️ Account Settings</a>
 
     <a href="index.php" class="logout">Logout</a>
 
